@@ -16,7 +16,7 @@ We are going to repartion the disks to use that space which we left un-alloted d
     - [ ] `n` &rarr; (enter `n` for creating a new partition).
     - [ ] `w` &rarr; (enter `w` to write changes to a partition).
 - [ ] `reboot` &rarr; (restart your machine).
-- [x] `resize2fs /dev/sda2` &rarr; (To confirm new changes in partitioning).
+- [ ] `resize2fs /dev/sda2` &rarr; (To confirm new changes in partitioning).
 
 These commands may vary based on your partitions names and Debian version. So kindly learn about their usages than only pasting these commands on your shell.
 
