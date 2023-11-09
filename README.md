@@ -8,7 +8,7 @@ These labs are prepared by [Faisal Jan](https://twitter.com/justFaisaljan) for h
 ## Labs Table
 - [Basic bash commands and tools](/labs-doc/basic_bash_commands_and_tools.md)
 - [Repartitioning of disks](/labs-doc/repartioning_of_disks.md)
-- [Installation of GUI]()
+- [Installation of GUI](/labs-doc/gui_installation.md)
 - [Static Host IP Configuration]()
 - [Dynamic host IP configuration (DHCP)]()
 - [Installation of apache webserver]()
