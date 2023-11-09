@@ -1,5 +1,5 @@
 # Repartioning of Disks
-We are going to repartion the disks to use that space which we left un-alloted during installation of Debian.
+We are going to repartition the disks to use that space which we left un-allocated during installation of Debian.
 
 ## Requirements
 
@@ -18,6 +18,6 @@ We are going to repartion the disks to use that space which we left un-alloted d
 - [ ] `reboot` &rarr; (restart your machine).
 - [ ] `resize2fs /dev/sda2` &rarr; (To confirm new changes in partitioning).
 
-These commands may vary based on your partitions names and Debian version. So kindly learn about their usages than only pasting these commands on your shell.
+These commands may vary based on your partitions names and Debian version. So kindly learn the concepts and their usages rather only pasting these commands on your shell.
 
 [&larr; Go Home](/README.md)
